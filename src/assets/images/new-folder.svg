@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/24/new folder</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Task---1" transform="translate(-71.000000, -225.000000)">
+            <g id="Group" transform="translate(69.000000, 222.000000)">
+                <rect id="Rectangle-Copy-6" x="0" y="0" width="24" height="24"></rect>
+                <path d="M8.39444872,4 C8.59187371,4 8.7848814,4.05843803 8.94914892,4.16794971 L8.94914892,4.16794971 L11.6972244,6 L20,6 C20.2761424,6 20.5261424,6.11192881 20.7071068,6.29289322 C20.8880712,6.47385763 21,6.72385763 21,7 L21,7 L21,19 C21,19.2761424 20.8880712,19.5261424 20.7071068,19.7071068 C20.5261424,19.8880712 20.2761424,20 20,20 L20,20 L4,20 C3.72385763,20 3.47385763,19.8880712 3.29289322,19.7071068 C3.11192881,19.5261424 3,19.2761424 3,19 L3,19 L3,5 C3,4.72385763 3.11192881,4.47385763 3.29289322,4.29289322 C3.47385763,4.11192881 3.72385763,4 4,4 L4,4 Z" id="Rectangle" stroke="#3C434D" stroke-width="2"></path>
+                <rect id="Rectangle" fill="#00BFA5" x="7" y="12" width="10" height="2" rx="1"></rect>
+                <rect id="Rectangle" fill="#00BFA5" x="11" y="8" width="2" height="10" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

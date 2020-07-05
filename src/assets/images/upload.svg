@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/24/new folder copy 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Task---1" transform="translate(-195.000000, -223.000000)">
+            <g id="Group" transform="translate(194.000000, 222.000000)">
+                <rect id="Rectangle-Copy-6" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-Copy-6" x="0" y="0" width="24" height="24"></rect>
+                <circle id="Oval" stroke="#3A3E41" stroke-width="2" cx="12" cy="12" r="10"></circle>
+                <rect id="Rectangle-Copy-2" fill="#00BFA5" x="11" y="8" width="2" height="9" rx="1"></rect>
+                <path d="M8,11 L11.2928932,7.70710678 C11.6834175,7.31658249 12.3165825,7.31658249 12.7071068,7.70710678 L16,11 L16,11" id="Path-4" stroke="#00BFA5" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
